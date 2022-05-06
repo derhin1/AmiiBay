@@ -3,9 +3,8 @@
 // The config export allows the app to distinguish
 // between individual environments.
 
-
 const production = {
-  url: "https://team-ram-rod.herokuapp.com/api",
+  url: "https://amiibay.herokuapp.com/api",
 };
 
 const development = {
